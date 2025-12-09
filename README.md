@@ -28,5 +28,5 @@ npm run dev
 
 ### 🖼️ Screenshots:
 
-![picture1](./public/images/goose.png)
-![picture2](./public/images/login.png)
+![picture1](./public/goose.png)
+![picture2](./public/login.png)
